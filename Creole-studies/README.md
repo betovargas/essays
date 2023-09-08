@@ -1,7 +1,7 @@
 # Creole Studies
 
 .ve-map 17.50,-88.19 10 width=70% right
-    - 17.50,-88.19
+    - 17.50,-88.19 "Belize" "The Creole language situation in Belize is very different than that of Creole languages in the other countries. As the official language of Belize, English is the prestige language in contrast to other Central American nations where Spanish is the official language. Although Kriol holds high covert prestige (domains of use include music, plays, stories, poems, and to a limited extent, media), it holds low overt prestige (deemed inappropriate for use in education/government) (Escure, 2013; Fuller Medina, 2020). Kriol is not listed in UNESCO Atlas of the World's Languages in Danger (Moseley, 2010); this makes sense as even in the multilingual environment of modern Belize, Kriol influences other languages (e.g. Spanish) much more than it itself is influenced, which is also unique for Creole languages (Fuller Medina, 2020)."
 
 
 
