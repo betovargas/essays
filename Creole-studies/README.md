@@ -1,6 +1,6 @@
 # Creole Studies
 
-.ve-map 17.50,-88.19 9 width=50%
+.ve-map 17.50,-88.19 9 width=50% right
     - 17.50,-88.19
 .ve-map 12.0111402,-83.7703693 9 width=50% right
 
