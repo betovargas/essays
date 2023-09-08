@@ -1,7 +1,7 @@
 # Creole Studies
 
 .ve-map 17.50,-88.19 6 basemaps=Esri_WorldPhysical width=70% right
-    - 17.50,-88.19 "Belize" "The Creole language situation in Belize is very different than that of Creole languages in the other countries."
+    - 17.50,-88.19 "Belize" "The Creole language situation in Belize is very different than that of Creole languages in the other countries." layer=Cities
     
     
 .ve-map 37.84,-108.92 6 basemaps=Esri_WorldPhysical width=50%
