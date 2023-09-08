@@ -1,7 +1,7 @@
 # Creole Studies
 
 .ve-map 17.50,-88.19 6 basemaps=Esri_WorldPhysical width=70% right
-    - 17.50,-88.19 "Belize" "The Creole language situation in Belize is very different than that of Creole languages in the other countries." layer=Cities https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Pto_Limon%2C_Costa_Rica_-_panoramio.jpg/640px-Pto_Limon%2C_Costa_Rica_-_panoramio.jpg
+    - 17.50,-88.19 "Belize" "The Creole language situation in Belize is very different than that of Creole languages in the other countries." layer=Cities wc:https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Pto_Limon%2C_Costa_Rica_-_panoramio.jpg/640px-Pto_Limon%2C_Costa_Rica_-_panoramio.jpg
     
     
 .ve-map 37.84,-108.92 6 basemaps=Esri_WorldPhysical width=50%
